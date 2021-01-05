@@ -1,0 +1,10 @@
+Hello !
+I'm Working.
+I can change font family, font weight and  font size.
+I can select all text.
+I can undo, redo and cut.
+I can copy and paste.
+I can find and replace.
+I can save the file or save it as any other extention.
+I can make a new text file or open an existing one.
+I can exit from fron file in the menu bar.

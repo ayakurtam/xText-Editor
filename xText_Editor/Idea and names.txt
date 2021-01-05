@@ -1,0 +1,29 @@
+Idea title: 9. xText Editor
+
+Row Number: 70
+
+Names:
+
+Team Leader : Aya Muhammed Kurtam
+Arabic Name : ايه الله محمد طه محمد أحمد
+ID: 20180150
+
+
+Member 1    : Amr Osama Salah El-Diin
+Arabic Name : عمرو اسامه صلاح الدين ابراهيم
+ID: 20180398
+
+
+Member 2    : Omar Khaled Abdelraouf
+Arabic Name : عمر خالد عبد الرؤوف
+ID: 20180367
+
+
+Member 3    : Mahmoud Ehab Hanafy
+Arabic Name : محمود ايهاب حنفي محمود
+ID: 20160388
+
+
+Member 4    : Mahmoud Gamal Arabi
+Arabic Name : محمود جمال عربي عبدالعزيز
+ID: 20180552
